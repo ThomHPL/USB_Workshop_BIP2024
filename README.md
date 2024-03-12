@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ThomHPL/USB_Workshop_BIP2024/assets/15064079/fe06cf6c-1bee-417a-8f48-a19f1735242b" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
+<img src="https://github.com/ThomHPL/USB_Workshop_BIP2024/assets/15064079/d8cf4b3e-ce8f-437f-8363-483c0a2f8eb0" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 </p>
 
 ## Ressources
